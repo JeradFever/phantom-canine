@@ -1,0 +1,4 @@
+- fix broken RSS feed
+- migrate remaining posts from old host
+- fix comment spam filter
+- update About page
